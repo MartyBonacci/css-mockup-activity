@@ -50,7 +50,7 @@
 						<div>
 						<img class="pull-left stunningimage" src="images/stunning.jpg" alt="captain picard" />
 						</div>
-						<div class="pull-right">
+						<div class="pull-right stunning-text">
 						<h2>A Day in the Life...</h2>
 						<p>Engage! Some days you get the bear, and some days the bear gets you. I'd like to think that I haven't changed those things, sir. Did you come here for something in particular or just general Riker-bashing? That might've been one of the shortest assignments in the history of Starfleet.</p>
 						<p>Hiss and stare at nothing then run suddenly away. Bare fangs at toy run hide in litter box until treats are fed toy mouse squeak roll over yet stare at the wall, play with food and get confused by dust. Chase dog then run away drink water out of the faucet for find a way to fit in tiny box. <span>Groom yourself 4 hours - checked, have your beauty sleep 18 hours - checked, be fabulous for the rest of the day - checked!</span></p>

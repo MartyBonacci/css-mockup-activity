@@ -65,6 +65,11 @@ html, body {
 	border: solid;
 }
 
+.stunning-text{
+	width:70%;
+	font-size: .82em;
+}
+
 .pull-left{
 	float: left;
 }

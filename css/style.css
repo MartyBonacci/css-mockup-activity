@@ -17,9 +17,11 @@ html, body {
 .headerContainer{
 	background-color: orange;
 	color: white;
-	display: inline-block;
 }
 
+h1{
+	display: inline-block;
+}
 .clearfix {
 	clear: both;
 }

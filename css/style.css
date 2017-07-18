@@ -23,6 +23,11 @@ html, body {
 
 .instructionscontrainer{
 	border: solid #ff8b00 3px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 75px;
+	margin-bottom: 75px;
+	padding: 25px;
 }
 
 /*Dylan MacDonald header*/

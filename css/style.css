@@ -33,6 +33,10 @@ html, body {
 
 .stunningcontainer{
 	background-color: #D3D3D3;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 75px;
+	padding-bottom: 75px;
 }
 
 .pull-right{

@@ -32,9 +32,16 @@ html, body {
 }
 
 .pull-right{
-	width: 15em;
+	float: right;
 }
 
+.captainimage{
+	width:15em;
+}
+
+.pull-left{
+	float: left;
+}
 /*Dylan MacDonald header*/
 h1{
 	display: inline-block;

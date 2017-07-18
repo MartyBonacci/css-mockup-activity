@@ -61,7 +61,7 @@
 
 				<!-- SECTION TWO -->
 				<section>
-					<div class="container">
+					<div class="container bottom-table">
 						<h2>Summary of Profe$$ional Skillz</h2>
 						<table>
 							<tr>

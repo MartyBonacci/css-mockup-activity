@@ -67,8 +67,16 @@ html, body {
 
 .stunning-text{
 	width:70%;
+}
+
+.stunning-paragraph{
 	font-size: .82em;
 }
+
+.grom-text{
+	font-weight: bold;
+}
+
 
 .pull-left{
 	float: left;

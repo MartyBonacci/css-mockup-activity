@@ -28,6 +28,11 @@ html, body {
 	margin-top: 75px;
 	margin-bottom: 75px;
 	padding: 25px;
+	color: #ff8b00;
+}
+
+.pull-right{
+	width: 15em;
 }
 
 /*Dylan MacDonald header*/

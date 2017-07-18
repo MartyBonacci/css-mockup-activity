@@ -21,6 +21,10 @@ html, body {
 	padding-left: 50px;
 }
 
+.instructionscontrainer{
+	border: solid #ff8b00 3px;
+}
+
 /*Dylan MacDonald header*/
 h1{
 	display: inline-block;

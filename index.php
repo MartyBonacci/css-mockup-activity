@@ -23,7 +23,7 @@
 
 				<!-- INSTRUCTIONS PANEL -->
 				<section>
-					<div class="container">
+					<div class="instructionscontrainer">
 						<div class="instructions">
 							<div class="pull-left">
 								<h2>Instructions</h2>

@@ -27,8 +27,8 @@
 						<div class="instructions">
 							<div class="pull-left">
 								<h2>Instructions</h2>
-								<ol>
-									<li class="instructiontext">
+								<ol class="instructiontext">
+									<li>
 										Fork and clone the following GitHub repository, and create a new project and deployment.<br>
 										<a href="https://github.com/rlewis2892/css-mockup-activity" target="_blank">https://github.com/rlewis2892/css-mockup-activity</a>
 									</li>

@@ -46,6 +46,13 @@ html, body {
 	border: solid;
 }
 
+.stunningimage{
+	width:15em;
+	color: #FEFFFF;
+	border-width: thick;
+	border: solid;
+}
+
 .pull-left{
 	float: left;
 }

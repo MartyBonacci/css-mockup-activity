@@ -46,7 +46,7 @@
 
 				<!-- SECTION ONE -->
 				<section>
-					<div class="container">
+					<div class="stunningcontainer">
 						<img class="pull-left" src="images/stunning.jpg" alt="captain picard" />
 						<h2>A Day in the Life...</h2>
 						<p>Engage! Some days you get the bear, and some days the bear gets you. I'd like to think that I haven't changed those things, sir. Did you come here for something in particular or just general Riker-bashing? That might've been one of the shortest assignments in the history of Starfleet.</p>

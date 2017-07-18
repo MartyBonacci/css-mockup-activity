@@ -31,6 +31,10 @@ html, body {
 	color: #ff8b00;
 }
 
+.stunningcontainer{
+	background-color: #D3D3D3;
+}
+
 .pull-right{
 	float: right;
 }

@@ -18,6 +18,7 @@ html, body {
 .headerContainer{
 	background-color: orange;
 	color: white;
+	padding-left: 50px;
 }
 
 h1{

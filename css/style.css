@@ -16,11 +16,12 @@ html, body {
 }
 
 .headerContainer{
-	background-color: orange;
+	background-color: #ff8d00;
 	color: white;
 	padding-left: 50px;
 }
 
+/*Dylan MacDonald header*/
 h1{
 	display: inline-block;
 	font-size: 4em;

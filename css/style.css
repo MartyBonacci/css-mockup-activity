@@ -41,8 +41,9 @@ html, body {
 
 .captainimage{
 	width:15em;
-	border-color: #D3D3D3;
-	border-width: thin;
+	color: #D2D2D2;
+	border-width: thick;
+	border: solid;
 }
 
 .pull-left{

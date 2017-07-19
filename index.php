@@ -62,7 +62,7 @@
 				<!-- SECTION TWO -->
 				<section>
 					<div class="container bottom-table">
-						<h2>Summary of Profe$$ional Skillz</h2>
+						<h2 class="pull-right bottom-table-title">Summary of Profe$$ional Skillz</h2>
 						<table>
 							<tr>
 								<th>Languages</th>

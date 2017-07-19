@@ -103,6 +103,9 @@ h2{
 	margin-bottom: 65px;
 }
 
+.bottom-table-title{
+	color: #ff8b00;
+}
 
 /* create a responsive container */
 @media only screen and (min-width: 1200px) {

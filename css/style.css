@@ -107,6 +107,22 @@ h2{
 	color: #ff8b00;
 }
 
+.table-column1{
+	width:20%;
+}
+
+.table-column2{
+	width:25%;
+}
+
+.table-column3{
+	width:35%;
+}
+
+.table-row{
+height: 75px;
+}
+
 /* create a responsive container */
 @media only screen and (min-width: 1200px) {
 	.container { width: 1170px; }

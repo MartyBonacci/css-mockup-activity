@@ -64,10 +64,10 @@
 					<div class="container bottom-table">
 						<h2 class="pull-right bottom-table-title">Summary of Profe$$ional Skillz</h2>
 						<table>
-							<tr>
-								<th>Languages</th>
-								<th>Software</th>
-								<th>Other</th>
+							<tr class="table-row">
+								<th class="table-column1">Languages</th>
+								<th class="table-column2">Software</th>
+								<th class="table-column3">Other</th>
 							</tr>
 							<tr>
 								<td>Java</td>

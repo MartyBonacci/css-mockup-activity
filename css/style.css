@@ -11,6 +11,7 @@ html, body {
 }
 
 .container {
+	color: #ff8b00;
 	margin: 0 auto;
 	padding: 0 2rem;
 }
@@ -105,22 +106,6 @@ h2{
 
 .bottom-table-title{
 	color: #ff8b00;
-}
-
-.table-column1{
-	width:20%;
-}
-
-.table-column2{
-	width:25%;
-}
-
-.table-column3{
-	width:35%;
-}
-
-.table-row{
-height: 75px;
 }
 
 /* create a responsive container */

@@ -55,7 +55,7 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<h2>Column 3</h2>
-					<p>Apply the classes .embed-responsive and .embed-responsive-item to <iframe>, <video>, <embed>, and <object> tags to scale these items to the size of their container. You can also set a specific aspect ratio that will automatically scale on any device. Examine the source code for the video embed below. Documentation: Bootstrap Responsive Embed</p>
+					<p>Here is some simple boilerplate code to help you get started in creating a main navigation bar using Bootstrap. This navbar automatically collapses and hides the links under a mobile toggle menu on small screens. For a more detailed example, with additional functionality, refer to the documentation here: </p>
 				</div>
 			</div>
 

@@ -42,7 +42,9 @@
 
 		<title>Bootstrap Activity</title>
 	</head>
-	<body>
+	<body class=""sfooter-content">
+	<div class="sfooter-content">
+		<!-- your page content here-->
 		<header>
 			<nav class="navbar navbar-default">
 				<div class="container-fluid">
@@ -149,6 +151,13 @@
 				</div>
 			</div>
 		</div>
+
+		</div>
+
+		<footer>
+			<!-- footer here-->
+			<p>FOOTER</p>
+		</footer>
 	</body>
 </html>
 

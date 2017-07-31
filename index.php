@@ -42,7 +42,7 @@
 
 		<title>Bootstrap Activity</title>
 	</head>
-	<body class=""sfooter-content">
+	<body class="sfooter-content">
 	<div class="sfooter-content">
 		<!-- your page content here-->
 		<header>
@@ -50,7 +50,8 @@
 				<div class="container-fluid">
 					<!-- Brand and toggle get grouped for better mobile display -->
 					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+								  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
@@ -65,7 +66,8 @@
 							<li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
 							<li><a href="#">Link</a></li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+									aria-expanded="false">Dropdown <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="#">Action</a></li>
 									<li><a href="#">Another action</a></li>
@@ -86,7 +88,8 @@
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="#">Link</a></li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+									aria-expanded="false">Dropdown <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="#">Action</a></li>
 									<li><a href="#">Another action</a></li>
@@ -152,12 +155,12 @@
 			</div>
 		</div>
 
-		</div>
+	</div>
 
-		<footer>
-			<!-- footer here-->
-			<p>FOOTER</p>
-		</footer>
+	<footer>
+		<!-- footer here-->
+		<p>FOOTER</p>
+	</footer>
 	</body>
 </html>
 

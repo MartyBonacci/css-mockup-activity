@@ -70,7 +70,29 @@
 						here: </p>
 				</div>
 			</div>
-
+			<div class="row">
+				<div class="col-md-4">
+					<h2>Column 4</h2>
+					<p>Here is some simple boilerplate code to help you get started in creating a main navigation bar using
+						Bootstrap. This navbar automatically collapses and hides the links under a mobile toggle menu on small
+						screens. For a more detailed example, with additional functionality, refer to the documentation
+						here: </p>
+				</div>
+				<div class="col-md-4">
+					<h2>Column 5</h2>
+					<p>Here is some simple boilerplate code to help you get started in creating a main navigation bar using
+						Bootstrap. This navbar automatically collapses and hides the links under a mobile toggle menu on small
+						screens. For a more detailed example, with additional functionality, refer to the documentation
+						here: </p>
+				</div>
+				<div class="col-md-4">
+					<h2>Column 6</h2>
+					<p>Here is some simple boilerplate code to help you get started in creating a main navigation bar using
+						Bootstrap. This navbar automatically collapses and hides the links under a mobile toggle menu on small
+						screens. For a more detailed example, with additional functionality, refer to the documentation
+						here: </p>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

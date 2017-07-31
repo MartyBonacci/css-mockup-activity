@@ -51,9 +51,14 @@
 				<h2>Column 2</h2>
 				<p>In the above prefixes, you can also see a two-letter reference to a Bootstrap breakpoint: xs, sm, md, and lg. This way, you can create elements that have varying column widths for different Bootstrap breakpoints. Grid classes apply to devices with screen widths greater than or equal to the breakpoint sizes.</p>
 			</div>
-
-
 			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<h2>Column 3</h2>
+					<p>Apply the classes .embed-responsive and .embed-responsive-item to <iframe>, <video>, <embed>, and <object> tags to scale these items to the size of their container. You can also set a specific aspect ratio that will automatically scale on any device. Examine the source code for the video embed below. Documentation: Bootstrap Responsive Embed</p>
+				</div>
+			</div>
+
 		</div>
 	</body>
 </html>

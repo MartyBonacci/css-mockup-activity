@@ -46,12 +46,13 @@
 			<div class="col-md-6">
 				<h2>Column 1</h2>
 				<p>Using just the .col-md-* grid classes, you can create a basic responsive layout where columns start out full-width and stacked vertically on mobile devices and tablets (the XS-SM breakpoints), then becoming horizontal on desktop screens (MD - LG breakpoints, 992px wide and up). See the following example: Bootstrap Basic Grid Example.</p>
+			</div>
 			<div class="col-md-6">
 				<h2>Column 2</h2>
 				<p>In the above prefixes, you can also see a two-letter reference to a Bootstrap breakpoint: xs, sm, md, and lg. This way, you can create elements that have varying column widths for different Bootstrap breakpoints. Grid classes apply to devices with screen widths greater than or equal to the breakpoint sizes.</p>
 			</div>
 
-			</div>
+
 			</div>
 		</div>
 	</body>

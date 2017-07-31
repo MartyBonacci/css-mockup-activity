@@ -42,7 +42,7 @@
 
 		<title>Bootstrap Activity</title>
 	</head>
-	<body class="sfooter-content">
+	<body class="sfooter">
 	<div class="sfooter-content">
 		<!-- your page content here-->
 		<header>
